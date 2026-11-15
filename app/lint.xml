@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- The app uses the Bmob data client without invoking the SDK's push APIs. -->
+    <issue id="NotificationPermission">
+        <ignore regexp=".*cn\.bmob\.v3\.util\.BmobNotificationManager.*" />
+    </issue>
+</lint>
