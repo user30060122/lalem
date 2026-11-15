@@ -1,4 +1,4 @@
-# 拉了么 · 新版
+# 拉了么
 
 用 Android Studio 打开项目根目录，同步 Gradle 后运行 `app`。应用包名是 `com.example.lalem`，最低支持 Android 7.0。也可以运行 `./gradlew :app:assembleDebug`，Windows 上使用 `gradlew.bat :app:assembleDebug`。
 
